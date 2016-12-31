@@ -39,5 +39,4 @@ def main():
                  '-s', 'DOWNLOAD_DELAY=%s' % rate])
     except KeyboardInterrupt:
         sys.exit()
-
 main()
